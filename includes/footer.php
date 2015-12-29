@@ -14,7 +14,7 @@
 					</div>
                 	<div class="Bottom-Block-Footer">
                     	<div class="About">
-                        	<p>Suspendisse non augue tincidunt, ullaorper odio vel, tempor risus. In cursus lacus mattis consectetur.</p>
+                        	<p>No verás reducidas tus ventas por ¡NO SHOWS!</p>
                         </div>
                     </div>
                 </div>
@@ -63,9 +63,9 @@
                                     <li class="facebook"><a href="#"><span class="fa fa-facebook hvr-icon-up"></span></a></li>
                                     <li class="twitter"><a href="#"><span class="fa fa-twitter hvr-icon-up"></span></a></li>
                                    
-                                    <li class="linkedin"><a href="#"><span class="fa fa-linkedin hvr-icon-up"></span></a></li>
+                                    <!--<li class="linkedin"><a href="#"><span class="fa fa-linkedin hvr-icon-up"></span></a></li>
                                    
-                                    <li class="youtube"><a href="#"><span class="fa fa-youtube-play hvr-icon-up"></span></a></li>
+                                    <li class="youtube"><a href="#"><span class="fa fa-youtube-play hvr-icon-up"></span></a></li>-->
                                 </ul>
                             </div>
                         </div>
@@ -83,16 +83,16 @@
     	<div class="row">
 			<div class="col-md-6">
             	<div class="Rights-Reserved">
-                	<h2>All Rights Reserved © 2015. <span>HoteleroTech.com</span></h2>
+                	<h2>Todos los Derechos Reservados © 2015. <span>HoteleroTech.com</span></h2>
                 </div>
             </div>
 			<div class="col-md-6 text-right">
             	<div class="Link-Footer">
                 	<ul>
-                    	<li><a href="#">Inicio</a></li>
+                    	<li><a href="index.php">Inicio</a></li>
         
-                    	<li><a href="#">Blog</a></li>
-                    	<li><a href="#">Contacto</a></li>
+    
+                    	<li><a href="contacto.php">Contacto</a></li>
                     </ul>
                 </div>
             </div>
