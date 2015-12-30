@@ -73,9 +73,9 @@ Nuestro motor de reservas ofrece una alta tasa de conversión de visitantes a cl
             
         	<div class="col-md-6">
 				<div id="owl-about-img" class="owl-carousel">
-				  <div class="item"><img src="http://hotelerotech.com/dev/style/images/page/motor-resevas3.jpg" alt="about images" width="570" height="420"></div>
-				  <div class="item"><img src="http://hotelerotech.com/dev/style/images/page/motor-reservas4.jpg" alt="about images" width="570" height="420"></div>
-                    <div class="item"><img src="http://hotelerotech.com/dev/style/images/page/moter-reservas5.jpg" alt="about images" width="570" height="420"></div>
+				  <div class="item"><img src="http://hotelerotech.com/style/images/page/motor-resevas3.jpg" alt="about images" width="570" height="420"></div>
+				  <div class="item"><img src="http://hotelerotech.com/style/images/page/motor-reservas4.jpg" alt="about images" width="570" height="420"></div>
+                    <div class="item"><img src="http://hotelerotech.com/style/images/page/moter-reservas5.jpg" alt="about images" width="570" height="420"></div>
 				  
 				</div>
             </div>
@@ -87,7 +87,7 @@ Nuestro motor de reservas ofrece una alta tasa de conversión de visitantes a cl
 
 
 <div style="text-align:center;" >
-<img src="http://hotelerotech.com/dev/style/images/page/moter-reservas2.jpg"  />
+<img src="http://hotelerotech.com/style/images/page/moter-reservas2.jpg"  />
 </div>
 
 

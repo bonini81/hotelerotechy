@@ -79,7 +79,13 @@ font-size: 14px;
 color: #828282;   
 font-family: 'Open Sans', sans-serif;
         line-height: 30px;
-    text-align: justify;
+  
+}
+
+.container.inner ul li.check {
+
+    list-style-image: url('http://hotelerotech.com/style/images/assets/check1.jpg');
+    margin-left: 25px;
 }
 
 body {
@@ -569,7 +575,8 @@ float: left;
 padding: 15px 15px;
 font-size: 18px;
 line-height: 20px;
-background: url(../images/logo/Logo-Header-Agency.png) no-repeat left;
+
+background: url(../images/logo/logo-hotelero.jpg) no-repeat left;
 width: 330px;
 height: 90px;
 margin-left: 15px;

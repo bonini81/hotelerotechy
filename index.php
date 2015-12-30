@@ -353,7 +353,7 @@ include("includes/header.php");
 								<a class="btn-bck" href="about.html">Leer más!</a>
 							</div>
 							<div class="col-md-6">
-								<img src="http://hotelerotech.com/dev/style/images/page/dise%C3%B1o-web.jpg" alt="about images" width="570" height="296">
+								<img src="http://hotelerotech.com/style/images/page/diseño-web.jpg" alt="about images" width="315" height="215">
 							</div>
 						</div>
 					</li>
@@ -366,7 +366,7 @@ include("includes/header.php");
 								<a class="btn-bck" href="about.html">Leer más!</a>
 							</div>
 							<div class="col-md-6">
-								<img src="http://hotelerotech.com/dev/style/images/page/motor-reservas.jpg" alt="about images" width="570" height="296">
+								<img src="http://hotelerotech.com/style/images/page/motor-reservas.jpg" alt="about images" width="315" height="215">
 							</div>
 						</div>
 					</li>
@@ -379,7 +379,7 @@ include("includes/header.php");
 								<a class="btn-bck" href="about.html">Leer más!</a>
 							</div>
 							<div class="col-md-6">
-								<img src="http://hotelerotech.com/dev/style/images/page/redes-sociales.jpg" alt="about images" width="570" height="296">
+								<img src="http://hotelerotech.com/style/images/page/redes-sociales.jpg" alt="about images" width="315" height="215">
 							</div>
 						</div>
 					</li> 
@@ -392,7 +392,7 @@ include("includes/header.php");
 								<a class="btn-bck" href="about.html">Read more</a>
 							</div>
 							<div class="col-md-6">
-								<img src="style/images/services/Features-Tap-4.png" alt="about images" width="570" height="296">
+								<img src="style/images/services/Features-Tap-4.png" alt="about images" width="315" height="215">
 							</div>
 						</div>
 					</li>
@@ -405,7 +405,7 @@ include("includes/header.php");
 								<a class="btn-bck" href="about.html">Read more</a>
 							</div>
 							<div class="col-md-6">
-								<img src="http://hotelerotech.com/dev/style/images/page/channel-manager.jpg" alt="about images" width="570" height="296">
+								<img src="http://hotelerotech.com/style/images/page/channel-manager.jpg" alt="about images" width="315" height="215">
 							</div>
 						</div>
 					</li>

@@ -69,11 +69,11 @@ include("includes/header.php");
 <p>Esto Significa que todas las Agencias de tendrán acceso a las 10 habitaciones, y estas serán reservadas al primero que las elija. Esto es un aventaja extraordinaria, ya que no habrá que preocuparse que todas las habitaciones sean reservadas, o que otras habitaciones se queden sin ser reservadas en un solo sitio sea este booking, expedia, hostel world o cualquier otro.  Nuestro channel manager, te ahorra tiempo ya que todos las agencias de reserva y tu propia página web son manejados desde un solo sitio. Así se logra mejorar la disponibilidad de habitaciones, ahorrar tiempo, evitar Overbookings, y pagar demasiadas comisiones a terceros.
 Nuestro Channel Manager muestra toda la información relevante en una sola pantalla. El administrador hotelero puede ver inmediatamente listas de:</p>
 <ul>
-<li>Nuevas Reservas</li>
-<li>Reservas pasadas y canceladas</li>
-<li>Llegadas y salidas recientes</li>
-<li>Habitaciones disponibles y ocupadas</li>
-<li>Comentarios importantes y sus estados actuales</li>
+<li class="check">Nuevas Reservas</li>
+<li class="check">Reservas pasadas y canceladas</li>
+<li class="check">Llegadas y salidas recientes</li>
+<li class="check">Habitaciones disponibles y ocupadas</li>
+<li class="check">Comentarios importantes y sus estados actuales</li>
 </ul>
                    
                 </div>
@@ -81,8 +81,8 @@ Nuestro Channel Manager muestra toda la información relevante en una sola panta
             
         	<div class="col-md-6">
 				<div id="owl-about-img" class="owl-carousel">
-				  <div class="item"><img src="http://hotelerotech.com/dev/style/images/page/motor-resevas3.jpg" alt="about images" width="570" height="420"></div>
-				  <div class="item"><img src="http://hotelerotech.com/dev/style/images/page/channel-manager-product1.jpg" alt="about images" width="570" height="420"></div>
+				  <div class="item"><img src="http://hotelerotech.com/style/images/page/motor-resevas3.jpg" alt="about images" width="570" height="420"></div>
+				  <div class="item"><img src="http://hotelerotech.com/style/images/page/channel-manager-product1.jpg" alt="about images" width="570" height="420"></div>
             
 				  
 				</div>
@@ -95,7 +95,7 @@ Nuestro Channel Manager muestra toda la información relevante en una sola panta
 
 
 <div style="text-align:center;" >
-<img src="http://hotelerotech.com/dev/style/images/page/channel-manager1.jpg"  />
+<img src="http://hotelerotech.com/style/images/page/channel-manager1.jpg"  />
 </div>
 
 

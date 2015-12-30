@@ -34,7 +34,7 @@ include("includes/header.php");
 	// When the user clicks the marker, an info window opens.
 
 	function initialize() {
-	  var myLatlng = new google.maps.LatLng(44.5403, -78.5463);
+	  var myLatlng = new google.maps.LatLng(-0.174323, -78.349396);
 	  var mapOptions = {
 		zoom: 10,
 		center: myLatlng,

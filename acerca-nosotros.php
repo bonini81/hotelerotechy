@@ -75,13 +75,13 @@ include("includes/header.php");
 			<div class="col-md-6">
 				<div id="owl-about-img" class="owl-carousel">
 				  
-                   <div><img src="http://hotelerotech.com/dev/style/images/page/acerca-nosotros1.jpg" alt="about images" width="570" height="420"></div>
+                   <div><img src="http://hotelerotech.com/style/images/page/acerca-nosotros1.jpg" alt="about images" width="570" height="420"></div>
                   
-				  <div><img src="http://hotelerotech.com/dev/style/images/page/motor-resevas3.jpg" alt="about images" width="570" height="420"></div>
+				  <div><img src="http://hotelerotech.com/style/images/page/motor-resevas3.jpg" alt="about images" width="570" height="420"></div>
                   
-                   <div><img src="http://hotelerotech.com/dev/style/images/page/acerca-nosotros2.jpg" alt="about images" width="570" height="420"></div>
+                   <div><img src="http://hotelerotech.com/style/images/page/acerca-nosotros2.jpg" alt="about images" width="570" height="420"></div>
                    
-                   <div><img src="http://hotelerotech.com/dev/style/images/page/acerca-nosotros3.jpg" alt="about images" width="570" height="420"></div>
+                   <div><img src="http://hotelerotech.com/style/images/page/acerca-nosotros3.jpg" alt="about images" width="570" height="420"></div>
 				 
 				</div>
             </div>
@@ -95,15 +95,15 @@ include("includes/header.php");
 
 <h4>Valores:</h4>
 <ul>
-<li>Excelencia, Integridad e Innovación</li>
-<li>Que nos hace diferentes</li>
-<li>No veras reducidas tus ganancias por NO SHOWS</li>
-<li>Nos enfocamos exclusivamente en la industria hotelera</li>
-<li>Somos hoteleros trabajando para hoteleros</li>
-<li>Reinvertimos nuestras ganancias en nuevas tecnologías vanguardistas</li>
-<li>Aplicamos tecnología global a negocios locales</li>
-<li>Producimos resultados rentables y reales a nuestros hoteleros</li>
-<li>Garantizamos puntualidad y eficiencia</li>
+<li class="check">Excelencia, Integridad e Innovación</li>
+<li class="check">Que nos hace diferentes</li>
+<li class="check">No veras reducidas tus ganancias por NO SHOWS</li>
+<li class="check">Nos enfocamos exclusivamente en la industria hotelera</li>
+<li class="check">Somos hoteleros trabajando para hoteleros</li>
+<li class="check">Reinvertimos nuestras ganancias en nuevas tecnologías vanguardistas</li>
+<li class="check">Aplicamos tecnología global a negocios locales</li>
+<li class="check">Producimos resultados rentables y reales a nuestros hoteleros</li>
+<li class="check">Garantizamos puntualidad y eficiencia</li>
 </ul>
                 </div>
             </div>

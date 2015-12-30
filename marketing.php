@@ -68,13 +68,13 @@ include("includes/header.php");
                     <p>Tu página web es probablemente el lugar más importante de las ventas, y tiene que ser el mejor para sobresalir de la competencia.
 Las características de nuestros sitios web son únicas y te darán la ventaja necesaria para sobresalir en un mundo donde cada vez todo es más digital.</p>
 <ul>
-<li>Totalmente responsive lo cual permite que tu sitio web pueda ser visto sin problemas desde cualquier dispositivo de cualquier tamaño, smartphone, tableta, PC etc.</li>
-<li>Completamente Multilingue</li>
+<li class="check">Totalmente responsive lo cual permite que tu sitio web pueda ser visto sin problemas desde cualquier dispositivo de cualquier tamaño, smartphone, tableta, PC etc.</li>
+<li class="check">Completamente Multilingue</li>
 
-<li>Una gran variedad de diseños web disponibles </li>
-<li>Puede cargar tantas fotos y videos como desees, e incluso subir documentos para tus clientes (folletos, presentaciones, mapas, etc).
+<li class="check">Una gran variedad de diseños web disponibles </li>
+<li class="check">Puede cargar tantas fotos y videos como desees, e incluso subir documentos para tus clientes (folletos, presentaciones, mapas, etc).
 </li>
-<li>CTambién puedes añadir tantas páginas adicionales como desees sin costo alguno, esto es muy util para promover eventos especiales, promociones o nuevas ofertas del hotel etc.</li>
+<li class="check">CTambién puedes añadir tantas páginas adicionales como desees sin costo alguno, esto es muy util para promover eventos especiales, promociones o nuevas ofertas del hotel etc.</li>
 </ul>
                    
                 </div>
@@ -82,9 +82,9 @@ Las características de nuestros sitios web son únicas y te darán la ventaja n
             
         	<div class="col-md-6">
 				<div id="owl-about-img" class="owl-carousel">
-				  <div class="item"><img src="http://hotelerotech.com/dev/style/images/page/reputacion-manager.jpg" alt="about images" width="570" height="420"></div>
-				  <div class="item"><img src="http://hotelerotech.com/dev/style/images/page/reputacion-manager2.jpg" alt="about images" width="570" height="420"></div>
-                  <div class="item"><img src="http://hotelerotech.com/dev/style/images/page/reputacion-manager3.jpg" alt="about images" width="570" height="420"></div>
+				  <div class="item"><img src="http://hotelerotech.com/style/images/page/reputacion-manager.jpg" alt="about images" width="570" height="420"></div>
+				  <div class="item"><img src="http://hotelerotech.com/style/images/page/reputacion-manager2.jpg" alt="about images" width="570" height="420"></div>
+                  <div class="item"><img src="http://hotelerotech.com/style/images/page/reputacion-manager3.jpg" alt="about images" width="570" height="420"></div>
             
 				  
 				</div>
@@ -97,7 +97,7 @@ Las características de nuestros sitios web son únicas y te darán la ventaja n
 
 
 <div style="text-align:center;" >
-<img src="http://hotelerotech.com/dev/style/images/page/reputation-management-page.jpg"  />
+<img src="http://hotelerotech.com/style/images/page/reputation-management-page.jpg"  />
 </div>
 
 
