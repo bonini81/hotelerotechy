@@ -138,7 +138,7 @@
 					<div class="Menu-Header top-menu">
 						<ul class="nav navbar-nav">
 						  <li>
-							<a href="index.php" class="dropdown-toggle js-activated current">Inicio</a>
+							<a href="index.php">Inicio</a>
 											  </li>
 				
                 <li><a href="acerca-nosotros.php">Acerca de Nosotros</a></li>

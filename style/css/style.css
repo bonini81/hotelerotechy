@@ -74,6 +74,13 @@
 
 /* General & Basic Styles */
 
+.container.inner p, ul li, ul li a {
+font-size: 14px;
+color: #828282;   
+font-family: 'Open Sans', sans-serif;
+        line-height: 30px;
+    text-align: justify;
+}
 
 body {
 overflow: hidden;

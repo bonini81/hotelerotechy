@@ -1,4 +1,5 @@
 <?php
+$title= "Channel Manager | HoteleroTech";
 include("includes/header.php");
 ?>
 
