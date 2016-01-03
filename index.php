@@ -353,7 +353,7 @@ include("includes/header.php");
 								<a class="btn-bck" href="about.html">Leer más!</a>
 							</div>
 							<div class="col-md-6">
-								<img src="http://hotelerotech.com/style/images/page/diseño-web.jpg" alt="about images" width="315" height="215">
+								<img src="http://hotelerotech.com/style/images/page/diseno-web.jpg" alt="about images" width="570" height="296">
 							</div>
 						</div>
 					</li>
@@ -366,7 +366,7 @@ include("includes/header.php");
 								<a class="btn-bck" href="about.html">Leer más!</a>
 							</div>
 							<div class="col-md-6">
-								<img src="http://hotelerotech.com/style/images/page/motor-reservas.jpg" alt="about images" width="315" height="215">
+								<img src="http://hotelerotech.com/style/images/page/motor-reservas.jpg" alt="about images" width="570" height="296">
 							</div>
 						</div>
 					</li>

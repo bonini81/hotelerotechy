@@ -73,12 +73,12 @@
 
 
 /* General & Basic Styles */
-
-.container.inner p, ul li, ul li a {
+/*.container.inner p,*/
+ ul li.check {
 font-size: 14px;
 color: #828282;   
 font-family: 'Open Sans', sans-serif;
-        line-height: 30px;
+line-height: 30px;
   
 }
 
@@ -489,19 +489,20 @@ list-style: none;
   width: 100%;
   font-size: 14px;
   text-align: center;
-  color: #828282;
+ /* color: #fff;*/
   border-left: 1px Solid #e8e8e8;
   padding: 14px;
   font-family: 'Lato';
+     background-color: #4396FF;
 }
 
 .Link-ul li a:hover {
-  color: #FFF;
-  background-color: #4396FF;
+  color: #828282;
+  background-color: #fff;
 }
 
 .Link-ul li a:hover span{
-  color: #FFF;
+  color:#828282;
 }
 
 .Link-ul:last-child {
@@ -512,7 +513,7 @@ border-right: 1px Solid #e8e8e8;
   line-height: 40px;
   font-size: 14px;
   text-align: center;
-  color: #828282;
+  color: #fff;
 }
 
 .show-menu .sidebar-menu a {
